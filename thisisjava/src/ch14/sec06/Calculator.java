@@ -1,6 +1,6 @@
 package ch14.sec06;
 
-//주석 
+//주석  
 public class Calculator {
 	private int memory;
 
