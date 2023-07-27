@@ -1,4 +1,4 @@
-package ch17_스트림.sec1_스트림이란;
+package ch17_스트림.sec01_스트림이란;
 
 import java.util.HashSet;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package ch17_스트림.sec6_요소변환_매핑.요소를복수개의요소로변환;
+package ch17_스트림.sec06_요소변환_매핑.요소를복수개의요소로변환;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package ch17_스트림.sec2_내부반복자;
+package ch17_스트림.sec02_내부반복자;
 
 import java.util.ArrayList;
 import java.util.List;

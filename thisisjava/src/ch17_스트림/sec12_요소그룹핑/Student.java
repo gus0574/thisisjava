@@ -1,11 +1,13 @@
-package ch17_스트림.sec03_중간처리와최종처리;
+package ch17_스트림.sec12_요소그룹핑;
 
 public class Student {
 	private String name;
+	private String sex;
 	private int score;
 	
-	public Student(String name, int score) {
+	public Student(String name, String sex, int score) {
 		this.name = name;
+		this.sex = sex;
 		this.score = score;
 	}
 	
@@ -13,7 +15,13 @@ public class Student {
 		return this.name;
 	}
 	
+	public String getSex() {
+		return this.sex;
+	}
+	
 	public int getScore() {
 		return this.score;
 	}
+	
+	
 }

@@ -1,4 +1,4 @@
-package ch17_스트림.sec3_중간처리와최종처리;
+package ch17_스트림.sec03_중간처리와최종처리;
 
 import java.util.Arrays;
 import java.util.List;
