@@ -59,6 +59,7 @@ public class SocketClient {
 					String command = jsonObject.getString("command");
 					
 					switch(command){
+						//입장 메시지를 출력하고, chatRoom 해쉬맵에 등록한다
 						case "incoming":
 							this.chatName = jsonObject.getString("data");
 							//여기서 this 는 SocketClient를 의미
