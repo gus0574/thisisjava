@@ -30,8 +30,8 @@ public class BoardWithFileInsertExample {
 			
 			PreparedStatement pstmt = conn.prepareStatement(sql, new String[] {"bno", "btitle"});
 			
-			pstmt.setString(1, "눈 오는 날2");
-			pstmt.setString(2, "함박눈이 내려요2");
+			pstmt.setString(1, "눈 오는 날5");
+			pstmt.setString(2, "함박눈이 내려요5");
 			pstmt.setString(3, "winter");
 			pstmt.setString(4, "snow.jpg");
 			// 프로젝트 기준 경로
